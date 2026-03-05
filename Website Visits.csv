@@ -1,0 +1,25 @@
+Month,Product_Category,Website_Visits,Orders,Conversion_Rate,Marketing_Channel,Marketing_Spend_USD,Avg_Order_Value
+Jan,Electronics,12000,720,6.00%,Google Ads,8000,210
+Jan,Home Appliances,9000,540,6.00%,Google Ads,5000,180
+Jan,Fashion,15000,1050,7.00%,Instagram,6000,95
+Jan,Beauty,11000,880,8.00%,Instagram,4200,65
+Feb,Electronics,11800,690,5.80%,Google Ads,8200,205
+Feb,Home Appliances,9100,520,5.70%,Google Ads,5100,175
+Feb,Fashion,14800,990,6.70%,Instagram,6100,92
+Feb,Beauty,10900,820,7.50%,Instagram,4300,63
+Mar,Electronics,12100,630,5.20%,Google Ads,8300,200
+Mar,Home Appliances,9200,470,5.10%,Google Ads,5200,170
+Mar,Fashion,14900,880,5.90%,Instagram,6200,90
+Mar,Beauty,11200,760,6.80%,Instagram,4400,60
+Apr,Electronics,11900,580,4.90%,Google Ads,8500,198
+Apr,Home Appliances,9050,430,4.70%,Google Ads,5300,168
+Apr,Fashion,15100,780,5.20%,Instagram,6300,88
+Apr,Beauty,11050,700,6.30%,Instagram,4500,59
+May,Electronics,12200,520,4.30%,Google Ads,8600,195
+May,Home Appliances,9150,390,4.20%,Google Ads,5400,165
+May,Fashion,15200,720,4.70%,Instagram,6400,86
+May,Beauty,11100,640,5.80%,Instagram,4550,58
+Jun,Electronics,12050,500,4.10%,Google Ads,8700,192
+Jun,Home Appliances,9300,370,4.00%,Google Ads,5500,162
+Jun,Fashion,15000,680,4.50%,Instagram,6500,85
+Jun,Beauty,11250,610,5.40%,Instagram,4600,56
